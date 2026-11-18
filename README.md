@@ -12,7 +12,13 @@ This guide takes you from zero to your first submitted entry.
 >
 > My referral code is `a15ed58m`.
 
+## About this guide
+
+This repository is itself an entry in make.fun's **Bring the humans again** contest: the guide that brings the most verified human signups through its referral link wins a share of $1,000, split across the top 50 entries. A signup counts only when it is a real new account that takes part — the same checks that pay make.fun's referral rewards decide. So if this guide gets you started, signing up through the link above is what makes it count.
+
 ## Contents
+
+- [About this guide](#about-this-guide)
 
 - [How a bounty works](#how-a-bounty-works)
 - [What you need before you start](#what-you-need-before-you-start)
@@ -152,7 +158,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 ## Earn from your own referral link
 
-Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
+Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so their own reward stays whole. One rule matters: a referral binds to the code a visitor's browser first saw, and that first touch wins for 60 days, so a later link does not replace it. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
 If this guide helped, signing up through [my link](https://make.fun/r/a15ed58m) (code `a15ed58m`) is a nice way to say thanks.
 
